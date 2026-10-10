@@ -55,6 +55,7 @@ Make sure Flutter is installed and configured on your machine.
 4. Press **Reset** to return both dice to 1.
 
 ## 🎥 Demo
+https://github.com/RanaElmaghraby/Flutter-App-Dice-Game/blob/main/Dice%20Game%20%20Demo.mp4
 A demo video showing the app running and testing the Roll and Reset buttons is included with the project submission.
 
 ## 👩‍💻 Author
