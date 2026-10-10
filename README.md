@@ -69,8 +69,7 @@ MyApp
                                  └─ Text ("Reset")
 ```
 
-![Uploading Gemini_Generated_Image_8fyysb8fyysb8fyy.jpg…]()
-
+![Widget Tree](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx.png)
 
 
 ## 🚀 Getting Started
