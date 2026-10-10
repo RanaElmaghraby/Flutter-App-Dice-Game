@@ -34,6 +34,45 @@ dice_game/
 └── README.md
 ```
 
+
+## Widget Tree 
+```
+MyApp
+ └─ MaterialApp
+     └─ DiceScreen
+         └─ Scaffold
+             ├─ [appBar] AppBar
+             │   ├─ [leading] Icon (Icons.casino)
+             │   └─ [title] Text ("Dice Game")
+             │
+             └─ [body] Center
+                 └─ Column
+                     ├─ Text ("Total: $total")
+                     ├─ SizedBox (height: 20)
+                     ├─ Image.asset
+                     ├─ SizedBox (height: 10)
+                     ├─ Text ("You Win! / You Lose!")
+                     ├─ SizedBox (height: 25)
+                     ├─ Row (Dices)
+                     │   ├─ Dice (dice1)
+                     │   │   └─ Icon (Icons.looks_*)
+                     │   └─ Dice (dice2)
+                     │       └─ Icon (Icons.looks_*)
+                     ├─ SizedBox (height: 30)
+                     └─ Row (Buttons)
+                         ├─ Expanded
+                         │   └─ ElevatedButton ("Roll")
+                         │       └─ Text ("Roll")
+                         ├─ SizedBox (width: 15)
+                         └─ Expanded
+                             └─ ElevatedButton ("Reset")
+                                 └─ Text ("Reset")
+```
+
+![Uploading Gemini_Generated_Image_8fyysb8fyysb8fyy.jpg…]()
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
