@@ -4,7 +4,7 @@
 A simple interactive dice game built with Flutter. The app allows users to roll two dice, calculate their total score, and display a result based on the total.
 
 ## 🎥 Demo
-https://github.com/RanaElmaghraby/Flutter-App-Dice-Game/blob/main/Dice%20Game%20%20Demo.mp4
+https://drive.google.com/file/d/1He5klcPMDzZ9C3Q5lmglM42cXmrg2Po1/view?usp=sharing
 
 A demo video showing the app running and testing the Roll and Reset buttons is included with the project submission.
 
@@ -68,8 +68,8 @@ MyApp
                              └─ ElevatedButton ("Reset")
                                  └─ Text ("Reset")
 ```
+![Uploading Gemini_Generated_Image_8fyysb8fyysb8fyy.jpg…]()
 
-![Widget Tree](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx.png)
 
 
 ## 🚀 Getting Started
